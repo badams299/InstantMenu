@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/compose-model-1640957587693.xml" value="0.33" />
+        <entry key="../../../../layout/compose-model-1641853727100.xml" value="0.33" />
+        <entry key="../../../../layout/compose-model-1642443428445.xml" value="0.25" />
+        <entry key="../../../../layout/compose-model-1642465383600.xml" value="0.33" />
+        <entry key="../../../../layout/compose-model-1642631683667.xml" value="0.22" />
+        <entry key="../../../../layout/compose-model-1642764598915.xml" value="0.33" />
+        <entry key="../../../../layout/compose-model-1642819552624.xml" value="0.33" />
+        <entry key="../../../../layout/compose-model-1643022885921.xml" value="0.33" />
+        <entry key="../../../../layout/compose-model-1643022887471.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1643059022304.xml" value="0.33" />
+        <entry key="../../../../layout/compose-model-1643073850031.xml" value="0.7857142857142857" />
+        <entry key="../../../../layout/compose-model-1643147561936.xml" value="0.22" />
+        <entry key="../../../../layout/compose-model-1643147563373.xml" value="0.22" />
+        <entry key="../../../../layout/compose-model-1643741587896.xml" value="0.25" />
+        <entry key="../../../../layout/compose-model-1643887487529.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1643979794405.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1643979797687.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
